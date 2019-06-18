@@ -1,0 +1,987 @@
+[1560808800] LOG ROTATION: DAILY
+[1560808800] LOG VERSION: 2.0
+[1560808800] CURRENT HOST STATE: Simple Mikrotik;DOWN;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560808800] CURRENT SERVICE STATE: Simple Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560809206] Auto-save of retention data completed successfully.
+[1560812806] Auto-save of retention data completed successfully.
+[1560816406] Auto-save of retention data completed successfully.
+[1560820006] Auto-save of retention data completed successfully.
+[1560823606] Auto-save of retention data completed successfully.
+[1560827206] Auto-save of retention data completed successfully.
+[1560830806] Auto-save of retention data completed successfully.
+[1560834406] Auto-save of retention data completed successfully.
+[1560837742] HOST ALERT: Simple Mikrotik;UP;HARD;1;OK - 192.168.12.100: rta 4.150ms, lost 0%
+[1560837763] SERVICE ALERT: Simple Mikrotik;Ping;OK;HARD;1;OK - 192.168.12.100: rta 0.770ms, lost 0%
+[1560838006] Auto-save of retention data completed successfully.
+[1560838434] Caught SIGTERM, shutting down...
+[1560838434] Successfully shutdown... (PID=36984)
+[1560838434] ndomod: Shutdown complete.
+[1560838434] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560838501] Nagios 4.4.3 starting... (PID=7603)
+[1560838501] Local time is Tue Jun 18 08:15:01 CEST 2019
+[1560838501] LOG VERSION: 2.0
+[1560838501] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560838501] qh: core query handler registered
+[1560838501] qh: echo service query handler registered
+[1560838501] qh: help for the query handler registered
+[1560838501] wproc: Successfully registered manager as @wproc with query handler
+[1560838501] wproc: Registry request: name=Core Worker 7606;pid=7606
+[1560838501] wproc: Registry request: name=Core Worker 7608;pid=7608
+[1560838501] wproc: Registry request: name=Core Worker 7607;pid=7607
+[1560838501] wproc: Registry request: name=Core Worker 7605;pid=7605
+[1560838501] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560838501] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560838501] ndomod registered for process data
+[1560838501] ndomod registered for log data'
+[1560838501] ndomod registered for system command data'
+[1560838501] ndomod registered for event handler data'
+[1560838501] ndomod registered for notification data'
+[1560838501] ndomod registered for comment data'
+[1560838501] ndomod registered for downtime data'
+[1560838501] ndomod registered for flapping data'
+[1560838501] ndomod registered for program status data'
+[1560838501] ndomod registered for host status data'
+[1560838501] ndomod registered for service status data'
+[1560838501] ndomod registered for adaptive program data'
+[1560838501] ndomod registered for adaptive host data'
+[1560838501] ndomod registered for adaptive service data'
+[1560838501] ndomod registered for external command data'
+[1560838501] ndomod registered for aggregated status data'
+[1560838501] ndomod registered for retention data'
+[1560838501] ndomod registered for contact data'
+[1560838501] ndomod registered for contact notification data'
+[1560838501] ndomod registered for acknowledgement data'
+[1560838501] ndomod registered for state change data'
+[1560838501] ndomod registered for contact status data'
+[1560838501] ndomod registered for adaptive contact data'
+[1560838501] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560838501] Successfully launched command file worker with pid 7615
+[1560838649] Caught SIGTERM, shutting down...
+[1560838649] Caught SIGTERM, shutting down...
+[1560838649] Caught SIGTERM, shutting down...
+[1560838649] Successfully shutdown... (PID=7603)
+[1560838649] ndomod: Shutdown complete.
+[1560838649] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560838649] Nagios 4.4.3 starting... (PID=8632)
+[1560838649] Local time is Tue Jun 18 08:17:29 CEST 2019
+[1560838649] LOG VERSION: 2.0
+[1560838649] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560838649] qh: core query handler registered
+[1560838649] qh: echo service query handler registered
+[1560838649] qh: help for the query handler registered
+[1560838649] wproc: Successfully registered manager as @wproc with query handler
+[1560838649] wproc: Registry request: name=Core Worker 8633;pid=8633
+[1560838649] wproc: Registry request: name=Core Worker 8634;pid=8634
+[1560838649] wproc: Registry request: name=Core Worker 8635;pid=8635
+[1560838649] wproc: Registry request: name=Core Worker 8636;pid=8636
+[1560838649] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560838649] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560838649] ndomod registered for process data
+[1560838649] ndomod registered for log data'
+[1560838649] ndomod registered for system command data'
+[1560838649] ndomod registered for event handler data'
+[1560838649] ndomod registered for notification data'
+[1560838649] ndomod registered for comment data'
+[1560838649] ndomod registered for downtime data'
+[1560838649] ndomod registered for flapping data'
+[1560838649] ndomod registered for program status data'
+[1560838649] ndomod registered for host status data'
+[1560838649] ndomod registered for service status data'
+[1560838649] ndomod registered for adaptive program data'
+[1560838649] ndomod registered for adaptive host data'
+[1560838649] ndomod registered for adaptive service data'
+[1560838649] ndomod registered for external command data'
+[1560838649] ndomod registered for aggregated status data'
+[1560838649] ndomod registered for retention data'
+[1560838649] ndomod registered for contact data'
+[1560838649] ndomod registered for contact notification data'
+[1560838649] ndomod registered for acknowledgement data'
+[1560838649] ndomod registered for state change data'
+[1560838649] ndomod registered for contact status data'
+[1560838649] ndomod registered for adaptive contact data'
+[1560838649] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560838649] Successfully launched command file worker with pid 8645
+[1560838693] Caught SIGTERM, shutting down...
+[1560838693] Caught SIGTERM, shutting down...
+[1560838693] Caught SIGTERM, shutting down...
+[1560838693] Successfully shutdown... (PID=8632)
+[1560838693] ndomod: Shutdown complete.
+[1560838693] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560838693] Nagios 4.4.3 starting... (PID=9070)
+[1560838693] Local time is Tue Jun 18 08:18:13 CEST 2019
+[1560838693] LOG VERSION: 2.0
+[1560838693] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560838693] qh: core query handler registered
+[1560838693] qh: echo service query handler registered
+[1560838693] qh: help for the query handler registered
+[1560838693] wproc: Successfully registered manager as @wproc with query handler
+[1560838693] wproc: Registry request: name=Core Worker 9071;pid=9071
+[1560838693] wproc: Registry request: name=Core Worker 9073;pid=9073
+[1560838693] wproc: Registry request: name=Core Worker 9072;pid=9072
+[1560838693] wproc: Registry request: name=Core Worker 9074;pid=9074
+[1560838693] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560838693] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560838693] ndomod registered for process data
+[1560838693] ndomod registered for log data'
+[1560838693] ndomod registered for system command data'
+[1560838693] ndomod registered for event handler data'
+[1560838693] ndomod registered for notification data'
+[1560838693] ndomod registered for comment data'
+[1560838693] ndomod registered for downtime data'
+[1560838693] ndomod registered for flapping data'
+[1560838693] ndomod registered for program status data'
+[1560838693] ndomod registered for host status data'
+[1560838693] ndomod registered for service status data'
+[1560838693] ndomod registered for adaptive program data'
+[1560838693] ndomod registered for adaptive host data'
+[1560838693] ndomod registered for adaptive service data'
+[1560838693] ndomod registered for external command data'
+[1560838693] ndomod registered for aggregated status data'
+[1560838693] ndomod registered for retention data'
+[1560838693] ndomod registered for contact data'
+[1560838693] ndomod registered for contact notification data'
+[1560838693] ndomod registered for acknowledgement data'
+[1560838693] ndomod registered for state change data'
+[1560838693] ndomod registered for contact status data'
+[1560838693] ndomod registered for adaptive contact data'
+[1560838693] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560838693] Successfully launched command file worker with pid 9084
+[1560838972] SERVICE ALERT: Simple Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560838982] HOST ALERT: Simple Mikrotik;DOWN;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560839403] Caught SIGTERM, shutting down...
+[1560839403] Caught SIGTERM, shutting down...
+[1560839403] Caught SIGTERM, shutting down...
+[1560839403] Successfully shutdown... (PID=9070)
+[1560839403] ndomod: Shutdown complete.
+[1560839403] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560839403] Nagios 4.4.3 starting... (PID=13303)
+[1560839403] Local time is Tue Jun 18 08:30:03 CEST 2019
+[1560839403] LOG VERSION: 2.0
+[1560839403] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560839403] qh: core query handler registered
+[1560839403] qh: echo service query handler registered
+[1560839403] qh: help for the query handler registered
+[1560839403] wproc: Successfully registered manager as @wproc with query handler
+[1560839403] wproc: Registry request: name=Core Worker 13307;pid=13307
+[1560839403] wproc: Registry request: name=Core Worker 13305;pid=13305
+[1560839403] wproc: Registry request: name=Core Worker 13306;pid=13306
+[1560839403] wproc: Registry request: name=Core Worker 13304;pid=13304
+[1560839403] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560839403] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560839403] ndomod registered for process data
+[1560839403] ndomod registered for log data'
+[1560839403] ndomod registered for system command data'
+[1560839403] ndomod registered for event handler data'
+[1560839403] ndomod registered for notification data'
+[1560839403] ndomod registered for comment data'
+[1560839403] ndomod registered for downtime data'
+[1560839403] ndomod registered for flapping data'
+[1560839403] ndomod registered for program status data'
+[1560839403] ndomod registered for host status data'
+[1560839403] ndomod registered for service status data'
+[1560839403] ndomod registered for adaptive program data'
+[1560839403] ndomod registered for adaptive host data'
+[1560839403] ndomod registered for adaptive service data'
+[1560839403] ndomod registered for external command data'
+[1560839403] ndomod registered for aggregated status data'
+[1560839403] ndomod registered for retention data'
+[1560839403] ndomod registered for contact data'
+[1560839403] ndomod registered for contact notification data'
+[1560839403] ndomod registered for acknowledgement data'
+[1560839403] ndomod registered for state change data'
+[1560839403] ndomod registered for contact status data'
+[1560839403] ndomod registered for adaptive contact data'
+[1560839403] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560839403] Warning: Host 'Mikrotik' has no default contacts or contactgroups defined!
+[1560839403] Successfully launched command file worker with pid 13319
+[1560839473] SERVICE ALERT: Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560839533] SERVICE ALERT: Mikrotik;Ping;OK;HARD;1;OK - 192.168.12.100: rta 0.680ms, lost 0%
+[1560839642] Caught SIGTERM, shutting down...
+[1560839642] Caught SIGTERM, shutting down...
+[1560839642] Caught SIGTERM, shutting down...
+[1560839642] Successfully shutdown... (PID=13303)
+[1560839642] ndomod: Shutdown complete.
+[1560839642] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560839642] Nagios 4.4.3 starting... (PID=14788)
+[1560839642] Local time is Tue Jun 18 08:34:02 CEST 2019
+[1560839642] LOG VERSION: 2.0
+[1560839642] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560839642] qh: core query handler registered
+[1560839642] qh: echo service query handler registered
+[1560839642] qh: help for the query handler registered
+[1560839642] wproc: Successfully registered manager as @wproc with query handler
+[1560839642] wproc: Registry request: name=Core Worker 14792;pid=14792
+[1560839642] wproc: Registry request: name=Core Worker 14789;pid=14789
+[1560839642] wproc: Registry request: name=Core Worker 14790;pid=14790
+[1560839642] wproc: Registry request: name=Core Worker 14791;pid=14791
+[1560839642] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560839642] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560839642] ndomod registered for process data
+[1560839642] ndomod registered for log data'
+[1560839642] ndomod registered for system command data'
+[1560839642] ndomod registered for event handler data'
+[1560839642] ndomod registered for notification data'
+[1560839642] ndomod registered for comment data'
+[1560839642] ndomod registered for downtime data'
+[1560839642] ndomod registered for flapping data'
+[1560839642] ndomod registered for program status data'
+[1560839642] ndomod registered for host status data'
+[1560839642] ndomod registered for service status data'
+[1560839642] ndomod registered for adaptive program data'
+[1560839642] ndomod registered for adaptive host data'
+[1560839642] ndomod registered for adaptive service data'
+[1560839642] ndomod registered for external command data'
+[1560839642] ndomod registered for aggregated status data'
+[1560839642] ndomod registered for retention data'
+[1560839642] ndomod registered for contact data'
+[1560839642] ndomod registered for contact notification data'
+[1560839642] ndomod registered for acknowledgement data'
+[1560839642] ndomod registered for state change data'
+[1560839642] ndomod registered for contact status data'
+[1560839642] ndomod registered for adaptive contact data'
+[1560839642] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560839642] Warning: Host 'Mikrotik' has no default contacts or contactgroups defined!
+[1560839642] Successfully launched command file worker with pid 14805
+[1560839723] SERVICE ALERT: Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560839794] SERVICE NOTIFICATION: otrs;Mikrotik;Ping;CRITICAL;notify-service-by-email;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560839913] SERVICE NOTIFICATION: otrs;Mikrotik;Ping;CRITICAL;notify-service-by-email;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560839973] SERVICE NOTIFICATION: otrs;Mikrotik;Ping;CRITICAL;notify-service-by-email;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560840013] SERVICE NOTIFICATION: otrs;Mikrotik;Ping;OK;notify-service-by-email;OK - 192.168.12.100: rta 0.731ms, lost 0%
+[1560840013] SERVICE ALERT: Mikrotik;Ping;OK;HARD;1;OK - 192.168.12.100: rta 0.731ms, lost 0%
+[1560840754] Caught SIGTERM, shutting down...
+[1560840754] Successfully shutdown... (PID=14788)
+[1560840754] ndomod: Shutdown complete.
+[1560840754] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560840776] Nagios 4.4.3 starting... (PID=7512)
+[1560840776] Local time is Tue Jun 18 08:52:56 CEST 2019
+[1560840776] LOG VERSION: 2.0
+[1560840776] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560840776] qh: core query handler registered
+[1560840776] qh: echo service query handler registered
+[1560840776] qh: help for the query handler registered
+[1560840776] wproc: Successfully registered manager as @wproc with query handler
+[1560840776] wproc: Registry request: name=Core Worker 7514;pid=7514
+[1560840776] wproc: Registry request: name=Core Worker 7515;pid=7515
+[1560840776] wproc: Registry request: name=Core Worker 7513;pid=7513
+[1560840776] wproc: Registry request: name=Core Worker 7516;pid=7516
+[1560840776] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560840776] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560840776] ndomod registered for process data
+[1560840776] ndomod registered for log data'
+[1560840776] ndomod registered for system command data'
+[1560840776] ndomod registered for event handler data'
+[1560840776] ndomod registered for notification data'
+[1560840776] ndomod registered for comment data'
+[1560840776] ndomod registered for downtime data'
+[1560840776] ndomod registered for flapping data'
+[1560840776] ndomod registered for program status data'
+[1560840776] ndomod registered for host status data'
+[1560840776] ndomod registered for service status data'
+[1560840776] ndomod registered for adaptive program data'
+[1560840776] ndomod registered for adaptive host data'
+[1560840776] ndomod registered for adaptive service data'
+[1560840776] ndomod registered for external command data'
+[1560840776] ndomod registered for aggregated status data'
+[1560840776] ndomod registered for retention data'
+[1560840776] ndomod registered for contact data'
+[1560840776] ndomod registered for contact notification data'
+[1560840776] ndomod registered for acknowledgement data'
+[1560840776] ndomod registered for state change data'
+[1560840776] ndomod registered for contact status data'
+[1560840776] ndomod registered for adaptive contact data'
+[1560840776] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560840776] Warning: Host 'Mikrotik' has no default contacts or contactgroups defined!
+[1560840776] Successfully launched command file worker with pid 7527
+[1560841131] Caught SIGTERM, shutting down...
+[1560841131] Successfully shutdown... (PID=7512)
+[1560841131] ndomod: Shutdown complete.
+[1560841131] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560841254] Nagios 4.4.3 starting... (PID=8021)
+[1560841254] Local time is Tue Jun 18 09:00:54 CEST 2019
+[1560841254] LOG VERSION: 2.0
+[1560841254] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560841254] qh: core query handler registered
+[1560841254] qh: echo service query handler registered
+[1560841254] qh: help for the query handler registered
+[1560841254] wproc: Successfully registered manager as @wproc with query handler
+[1560841254] wproc: Registry request: name=Core Worker 8022;pid=8022
+[1560841254] wproc: Registry request: name=Core Worker 8023;pid=8023
+[1560841254] wproc: Registry request: name=Core Worker 8024;pid=8024
+[1560841254] wproc: Registry request: name=Core Worker 8025;pid=8025
+[1560841254] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560841254] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560841254] ndomod registered for process data
+[1560841254] ndomod registered for log data'
+[1560841254] ndomod registered for system command data'
+[1560841254] ndomod registered for event handler data'
+[1560841254] ndomod registered for notification data'
+[1560841254] ndomod registered for comment data'
+[1560841254] ndomod registered for downtime data'
+[1560841254] ndomod registered for flapping data'
+[1560841254] ndomod registered for program status data'
+[1560841254] ndomod registered for host status data'
+[1560841254] ndomod registered for service status data'
+[1560841254] ndomod registered for adaptive program data'
+[1560841254] ndomod registered for adaptive host data'
+[1560841254] ndomod registered for adaptive service data'
+[1560841254] ndomod registered for external command data'
+[1560841254] ndomod registered for aggregated status data'
+[1560841254] ndomod registered for retention data'
+[1560841254] ndomod registered for contact data'
+[1560841254] ndomod registered for contact notification data'
+[1560841254] ndomod registered for acknowledgement data'
+[1560841254] ndomod registered for state change data'
+[1560841254] ndomod registered for contact status data'
+[1560841254] ndomod registered for adaptive contact data'
+[1560841254] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560841254] Warning: Duplicate definition found for service 'Ping' on host 'Mikrotik' (config file '/usr/local/nagios/etc/services/Mikrotik.cfg', starting on line 16)
+[1560841254] Warning: Host 'Mikrotik' has no default contacts or contactgroups defined!
+[1560841254] Successfully launched command file worker with pid 8032
+[1560841448] Caught SIGTERM, shutting down...
+[1560841448] Caught SIGTERM, shutting down...
+[1560841448] Caught SIGTERM, shutting down...
+[1560841448] Successfully shutdown... (PID=8021)
+[1560841448] ndomod: Shutdown complete.
+[1560841448] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560841448] Nagios 4.4.3 starting... (PID=9473)
+[1560841448] Local time is Tue Jun 18 09:04:08 CEST 2019
+[1560841448] LOG VERSION: 2.0
+[1560841448] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560841448] qh: core query handler registered
+[1560841448] qh: echo service query handler registered
+[1560841448] qh: help for the query handler registered
+[1560841448] wproc: Successfully registered manager as @wproc with query handler
+[1560841448] wproc: Registry request: name=Core Worker 9474;pid=9474
+[1560841448] wproc: Registry request: name=Core Worker 9475;pid=9475
+[1560841448] wproc: Registry request: name=Core Worker 9477;pid=9477
+[1560841448] wproc: Registry request: name=Core Worker 9476;pid=9476
+[1560841448] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560841448] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560841448] ndomod registered for process data
+[1560841448] ndomod registered for log data'
+[1560841448] ndomod registered for system command data'
+[1560841448] ndomod registered for event handler data'
+[1560841448] ndomod registered for notification data'
+[1560841448] ndomod registered for comment data'
+[1560841448] ndomod registered for downtime data'
+[1560841448] ndomod registered for flapping data'
+[1560841448] ndomod registered for program status data'
+[1560841448] ndomod registered for host status data'
+[1560841448] ndomod registered for service status data'
+[1560841448] ndomod registered for adaptive program data'
+[1560841448] ndomod registered for adaptive host data'
+[1560841448] ndomod registered for adaptive service data'
+[1560841448] ndomod registered for external command data'
+[1560841448] ndomod registered for aggregated status data'
+[1560841448] ndomod registered for retention data'
+[1560841448] ndomod registered for contact data'
+[1560841448] ndomod registered for contact notification data'
+[1560841448] ndomod registered for acknowledgement data'
+[1560841448] ndomod registered for state change data'
+[1560841448] ndomod registered for contact status data'
+[1560841448] ndomod registered for adaptive contact data'
+[1560841448] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560841448] Successfully launched command file worker with pid 9491
+[1560842163] Caught SIGTERM, shutting down...
+[1560842163] Caught SIGTERM, shutting down...
+[1560842163] Caught SIGTERM, shutting down...
+[1560842163] Successfully shutdown... (PID=9473)
+[1560842163] ndomod: Shutdown complete.
+[1560842163] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560842163] Nagios 4.4.3 starting... (PID=14461)
+[1560842163] Local time is Tue Jun 18 09:16:03 CEST 2019
+[1560842163] LOG VERSION: 2.0
+[1560842163] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560842163] qh: core query handler registered
+[1560842163] qh: echo service query handler registered
+[1560842163] qh: help for the query handler registered
+[1560842163] wproc: Successfully registered manager as @wproc with query handler
+[1560842163] wproc: Registry request: name=Core Worker 14462;pid=14462
+[1560842163] wproc: Registry request: name=Core Worker 14463;pid=14463
+[1560842163] wproc: Registry request: name=Core Worker 14465;pid=14465
+[1560842163] wproc: Registry request: name=Core Worker 14464;pid=14464
+[1560842163] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560842163] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560842163] ndomod registered for process data
+[1560842163] ndomod registered for log data'
+[1560842163] ndomod registered for system command data'
+[1560842163] ndomod registered for event handler data'
+[1560842163] ndomod registered for notification data'
+[1560842163] ndomod registered for comment data'
+[1560842163] ndomod registered for downtime data'
+[1560842163] ndomod registered for flapping data'
+[1560842163] ndomod registered for program status data'
+[1560842163] ndomod registered for host status data'
+[1560842163] ndomod registered for service status data'
+[1560842163] ndomod registered for adaptive program data'
+[1560842163] ndomod registered for adaptive host data'
+[1560842163] ndomod registered for adaptive service data'
+[1560842163] ndomod registered for external command data'
+[1560842163] ndomod registered for aggregated status data'
+[1560842163] ndomod registered for retention data'
+[1560842163] ndomod registered for contact data'
+[1560842163] ndomod registered for contact notification data'
+[1560842163] ndomod registered for acknowledgement data'
+[1560842163] ndomod registered for state change data'
+[1560842163] ndomod registered for contact status data'
+[1560842163] ndomod registered for adaptive contact data'
+[1560842163] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560842163] Successfully launched command file worker with pid 14478
+[1560842263] Caught SIGTERM, shutting down...
+[1560842263] Caught SIGTERM, shutting down...
+[1560842263] Caught SIGTERM, shutting down...
+[1560842263] Successfully shutdown... (PID=14461)
+[1560842263] ndomod: Shutdown complete.
+[1560842263] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560842263] Nagios 4.4.3 starting... (PID=15149)
+[1560842263] Local time is Tue Jun 18 09:17:43 CEST 2019
+[1560842263] LOG VERSION: 2.0
+[1560842263] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560842263] qh: core query handler registered
+[1560842263] qh: echo service query handler registered
+[1560842263] qh: help for the query handler registered
+[1560842263] wproc: Successfully registered manager as @wproc with query handler
+[1560842263] wproc: Registry request: name=Core Worker 15150;pid=15150
+[1560842263] wproc: Registry request: name=Core Worker 15151;pid=15151
+[1560842263] wproc: Registry request: name=Core Worker 15152;pid=15152
+[1560842263] wproc: Registry request: name=Core Worker 15153;pid=15153
+[1560842263] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560842263] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560842263] ndomod registered for process data
+[1560842263] ndomod registered for log data'
+[1560842263] ndomod registered for system command data'
+[1560842263] ndomod registered for event handler data'
+[1560842263] ndomod registered for notification data'
+[1560842263] ndomod registered for comment data'
+[1560842263] ndomod registered for downtime data'
+[1560842263] ndomod registered for flapping data'
+[1560842263] ndomod registered for program status data'
+[1560842263] ndomod registered for host status data'
+[1560842263] ndomod registered for service status data'
+[1560842263] ndomod registered for adaptive program data'
+[1560842263] ndomod registered for adaptive host data'
+[1560842263] ndomod registered for adaptive service data'
+[1560842263] ndomod registered for external command data'
+[1560842263] ndomod registered for aggregated status data'
+[1560842263] ndomod registered for retention data'
+[1560842263] ndomod registered for contact data'
+[1560842263] ndomod registered for contact notification data'
+[1560842263] ndomod registered for acknowledgement data'
+[1560842263] ndomod registered for state change data'
+[1560842263] ndomod registered for contact status data'
+[1560842263] ndomod registered for adaptive contact data'
+[1560842263] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560842263] Successfully launched command file worker with pid 15164
+[1560842276] Caught SIGTERM, shutting down...
+[1560842276] Caught SIGTERM, shutting down...
+[1560842276] Caught SIGTERM, shutting down...
+[1560842276] Successfully shutdown... (PID=15149)
+[1560842276] ndomod: Shutdown complete.
+[1560842276] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560842276] Nagios 4.4.3 starting... (PID=15332)
+[1560842276] Local time is Tue Jun 18 09:17:56 CEST 2019
+[1560842276] LOG VERSION: 2.0
+[1560842276] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560842276] qh: core query handler registered
+[1560842276] qh: echo service query handler registered
+[1560842276] qh: help for the query handler registered
+[1560842276] wproc: Successfully registered manager as @wproc with query handler
+[1560842276] wproc: Registry request: name=Core Worker 15335;pid=15335
+[1560842276] wproc: Registry request: name=Core Worker 15334;pid=15334
+[1560842276] wproc: Registry request: name=Core Worker 15336;pid=15336
+[1560842276] wproc: Registry request: name=Core Worker 15333;pid=15333
+[1560842276] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560842276] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560842276] ndomod registered for process data
+[1560842276] ndomod registered for log data'
+[1560842276] ndomod registered for system command data'
+[1560842276] ndomod registered for event handler data'
+[1560842276] ndomod registered for notification data'
+[1560842276] ndomod registered for comment data'
+[1560842276] ndomod registered for downtime data'
+[1560842276] ndomod registered for flapping data'
+[1560842276] ndomod registered for program status data'
+[1560842276] ndomod registered for host status data'
+[1560842276] ndomod registered for service status data'
+[1560842276] ndomod registered for adaptive program data'
+[1560842276] ndomod registered for adaptive host data'
+[1560842276] ndomod registered for adaptive service data'
+[1560842276] ndomod registered for external command data'
+[1560842276] ndomod registered for aggregated status data'
+[1560842276] ndomod registered for retention data'
+[1560842276] ndomod registered for contact data'
+[1560842276] ndomod registered for contact notification data'
+[1560842276] ndomod registered for acknowledgement data'
+[1560842276] ndomod registered for state change data'
+[1560842276] ndomod registered for contact status data'
+[1560842276] ndomod registered for adaptive contact data'
+[1560842276] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560842276] Successfully launched command file worker with pid 15348
+[1560842315] SERVICE NOTIFICATION: nagiosadmin;Simple Mikrotik;Ping;CRITICAL;xi_service_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560842315] SERVICE ALERT: Simple Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560842325] HOST NOTIFICATION: nagiosadmin;Simple Mikrotik;DOWN;xi_host_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560842325] HOST ALERT: Simple Mikrotik;DOWN;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560842345] SERVICE NOTIFICATION: nagiosadmin;Mikrotik;Ping;CRITICAL;xi_service_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560842345] SERVICE ALERT: Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560842355] HOST NOTIFICATION: nagiosadmin;Mikrotik;DOWN;xi_host_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560842355] HOST ALERT: Mikrotik;DOWN;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560842445] HOST NOTIFICATION: nagiosadmin;Simple Mikrotik;UP;xi_host_notification_handler;OK - 192.168.12.100: rta 0.792ms, lost 0%
+[1560842445] HOST ALERT: Simple Mikrotik;UP;HARD;1;OK - 192.168.12.100: rta 0.792ms, lost 0%
+[1560842465] SERVICE ALERT: Mikrotik;Ping;OK;HARD;1;OK - 192.168.12.100: rta 0.612ms, lost 0%
+[1560842465] HOST NOTIFICATION: nagiosadmin;Mikrotik;UP;xi_host_notification_handler;OK - 192.168.12.100: rta 0.730ms, lost 0%
+[1560842465] HOST ALERT: Mikrotik;UP;HARD;1;OK - 192.168.12.100: rta 0.730ms, lost 0%
+[1560842491] SERVICE NOTIFICATION: nagiosadmin;Simple Mikrotik;Ping;OK;xi_service_notification_handler;OK - 192.168.12.100: rta 0.694ms, lost 0%
+[1560842491] SERVICE ALERT: Simple Mikrotik;Ping;OK;HARD;1;OK - 192.168.12.100: rta 0.694ms, lost 0%
+[1560842725] Caught SIGTERM, shutting down...
+[1560842725] Caught SIGTERM, shutting down...
+[1560842725] Caught SIGTERM, shutting down...
+[1560842725] Successfully shutdown... (PID=15332)
+[1560842725] ndomod: Shutdown complete.
+[1560842725] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560842725] Nagios 4.4.3 starting... (PID=18074)
+[1560842725] Local time is Tue Jun 18 09:25:25 CEST 2019
+[1560842725] LOG VERSION: 2.0
+[1560842725] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560842725] qh: core query handler registered
+[1560842725] qh: echo service query handler registered
+[1560842725] qh: help for the query handler registered
+[1560842725] wproc: Successfully registered manager as @wproc with query handler
+[1560842725] wproc: Registry request: name=Core Worker 18075;pid=18075
+[1560842725] wproc: Registry request: name=Core Worker 18076;pid=18076
+[1560842725] wproc: Registry request: name=Core Worker 18077;pid=18077
+[1560842725] wproc: Registry request: name=Core Worker 18078;pid=18078
+[1560842725] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560842725] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560842725] ndomod registered for process data
+[1560842725] ndomod registered for log data'
+[1560842725] ndomod registered for system command data'
+[1560842725] ndomod registered for event handler data'
+[1560842725] ndomod registered for notification data'
+[1560842725] ndomod registered for comment data'
+[1560842725] ndomod registered for downtime data'
+[1560842725] ndomod registered for flapping data'
+[1560842725] ndomod registered for program status data'
+[1560842725] ndomod registered for host status data'
+[1560842725] ndomod registered for service status data'
+[1560842725] ndomod registered for adaptive program data'
+[1560842725] ndomod registered for adaptive host data'
+[1560842725] ndomod registered for adaptive service data'
+[1560842725] ndomod registered for external command data'
+[1560842725] ndomod registered for aggregated status data'
+[1560842725] ndomod registered for retention data'
+[1560842725] ndomod registered for contact data'
+[1560842725] ndomod registered for contact notification data'
+[1560842725] ndomod registered for acknowledgement data'
+[1560842725] ndomod registered for state change data'
+[1560842725] ndomod registered for contact status data'
+[1560842725] ndomod registered for adaptive contact data'
+[1560842725] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560842725] Successfully launched command file worker with pid 18091
+[1560842764] SERVICE NOTIFICATION: nagiosadmin;Mikrotik;Ping;CRITICAL;xi_service_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560842764] SERVICE ALERT: Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560842774] HOST NOTIFICATION: nagiosadmin;Mikrotik;DOWN;xi_host_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560842774] HOST ALERT: Mikrotik;DOWN;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560842886] SERVICE FLAPPING ALERT: Mikrotik;Ping;STARTED; Service appears to have started flapping (22.6% change >= 20.0% threshold)
+[1560842886] SERVICE NOTIFICATION: nagiosadmin;Mikrotik;Ping;FLAPPINGSTART (OK);xi_service_notification_handler;OK - 192.168.12.100: rta 0.877ms, lost 0%
+[1560842886] SERVICE ALERT: Mikrotik;Ping;OK;HARD;1;OK - 192.168.12.100: rta 0.877ms, lost 0%
+[1560842886] HOST FLAPPING ALERT: Mikrotik;STARTED; Host appears to have started flapping (20.3% change > 20.0% threshold)
+[1560842886] HOST NOTIFICATION: nagiosadmin;Mikrotik;FLAPPINGSTART (UP);xi_host_notification_handler;OK - 192.168.12.100: rta 6.863ms, lost 0%
+[1560842886] HOST ALERT: Mikrotik;UP;HARD;1;OK - 192.168.12.100: rta 6.863ms, lost 0%
+[1560843157] Caught SIGTERM, shutting down...
+[1560843157] Caught SIGTERM, shutting down...
+[1560843157] Caught SIGTERM, shutting down...
+[1560843157] Successfully shutdown... (PID=18074)
+[1560843157] ndomod: Shutdown complete.
+[1560843157] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560843157] Nagios 4.4.3 starting... (PID=20533)
+[1560843157] Local time is Tue Jun 18 09:32:37 CEST 2019
+[1560843157] LOG VERSION: 2.0
+[1560843157] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560843157] qh: core query handler registered
+[1560843157] qh: echo service query handler registered
+[1560843157] qh: help for the query handler registered
+[1560843157] wproc: Successfully registered manager as @wproc with query handler
+[1560843157] wproc: Registry request: name=Core Worker 20534;pid=20534
+[1560843157] wproc: Registry request: name=Core Worker 20535;pid=20535
+[1560843157] wproc: Registry request: name=Core Worker 20536;pid=20536
+[1560843157] wproc: Registry request: name=Core Worker 20537;pid=20537
+[1560843157] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560843157] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560843157] ndomod registered for process data
+[1560843157] ndomod registered for log data'
+[1560843157] ndomod registered for system command data'
+[1560843157] ndomod registered for event handler data'
+[1560843157] ndomod registered for notification data'
+[1560843157] ndomod registered for comment data'
+[1560843157] ndomod registered for downtime data'
+[1560843157] ndomod registered for flapping data'
+[1560843157] ndomod registered for program status data'
+[1560843157] ndomod registered for host status data'
+[1560843157] ndomod registered for service status data'
+[1560843157] ndomod registered for adaptive program data'
+[1560843157] ndomod registered for adaptive host data'
+[1560843157] ndomod registered for adaptive service data'
+[1560843157] ndomod registered for external command data'
+[1560843157] ndomod registered for aggregated status data'
+[1560843157] ndomod registered for retention data'
+[1560843157] ndomod registered for contact data'
+[1560843157] ndomod registered for contact notification data'
+[1560843157] ndomod registered for acknowledgement data'
+[1560843157] ndomod registered for state change data'
+[1560843157] ndomod registered for contact status data'
+[1560843157] ndomod registered for adaptive contact data'
+[1560843157] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560843157] Successfully launched command file worker with pid 20550
+[1560843178] Caught SIGTERM, shutting down...
+[1560843178] Caught SIGTERM, shutting down...
+[1560843178] Caught SIGTERM, shutting down...
+[1560843178] Successfully shutdown... (PID=20533)
+[1560843178] ndomod: Shutdown complete.
+[1560843178] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560843178] Nagios 4.4.3 starting... (PID=20782)
+[1560843178] Local time is Tue Jun 18 09:32:58 CEST 2019
+[1560843178] LOG VERSION: 2.0
+[1560843178] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560843178] qh: core query handler registered
+[1560843178] qh: echo service query handler registered
+[1560843178] qh: help for the query handler registered
+[1560843178] wproc: Successfully registered manager as @wproc with query handler
+[1560843178] wproc: Registry request: name=Core Worker 20783;pid=20783
+[1560843178] wproc: Registry request: name=Core Worker 20784;pid=20784
+[1560843178] wproc: Registry request: name=Core Worker 20785;pid=20785
+[1560843178] wproc: Registry request: name=Core Worker 20786;pid=20786
+[1560843178] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560843178] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560843178] ndomod registered for process data
+[1560843178] ndomod registered for log data'
+[1560843178] ndomod registered for system command data'
+[1560843178] ndomod registered for event handler data'
+[1560843178] ndomod registered for notification data'
+[1560843178] ndomod registered for comment data'
+[1560843178] ndomod registered for downtime data'
+[1560843178] ndomod registered for flapping data'
+[1560843178] ndomod registered for program status data'
+[1560843178] ndomod registered for host status data'
+[1560843178] ndomod registered for service status data'
+[1560843178] ndomod registered for adaptive program data'
+[1560843178] ndomod registered for adaptive host data'
+[1560843178] ndomod registered for adaptive service data'
+[1560843178] ndomod registered for external command data'
+[1560843178] ndomod registered for aggregated status data'
+[1560843178] ndomod registered for retention data'
+[1560843178] ndomod registered for contact data'
+[1560843178] ndomod registered for contact notification data'
+[1560843178] ndomod registered for acknowledgement data'
+[1560843178] ndomod registered for state change data'
+[1560843178] ndomod registered for contact status data'
+[1560843178] ndomod registered for adaptive contact data'
+[1560843178] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560843178] Successfully launched command file worker with pid 20796
+[1560843226] SERVICE ALERT: Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560843236] HOST ALERT: Mikrotik;DOWN;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560843389] Caught SIGTERM, shutting down...
+[1560843389] Caught SIGTERM, shutting down...
+[1560843389] Caught SIGTERM, shutting down...
+[1560843389] Successfully shutdown... (PID=20782)
+[1560843389] ndomod: Shutdown complete.
+[1560843389] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560843389] Nagios 4.4.3 starting... (PID=22187)
+[1560843389] Local time is Tue Jun 18 09:36:29 CEST 2019
+[1560843389] LOG VERSION: 2.0
+[1560843389] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560843389] qh: core query handler registered
+[1560843389] qh: echo service query handler registered
+[1560843389] qh: help for the query handler registered
+[1560843389] wproc: Successfully registered manager as @wproc with query handler
+[1560843389] wproc: Registry request: name=Core Worker 22188;pid=22188
+[1560843389] wproc: Registry request: name=Core Worker 22190;pid=22190
+[1560843389] wproc: Registry request: name=Core Worker 22191;pid=22191
+[1560843389] wproc: Registry request: name=Core Worker 22189;pid=22189
+[1560843389] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560843389] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560843389] ndomod registered for process data
+[1560843389] ndomod registered for log data'
+[1560843389] ndomod registered for system command data'
+[1560843389] ndomod registered for event handler data'
+[1560843389] ndomod registered for notification data'
+[1560843389] ndomod registered for comment data'
+[1560843389] ndomod registered for downtime data'
+[1560843389] ndomod registered for flapping data'
+[1560843389] ndomod registered for program status data'
+[1560843389] ndomod registered for host status data'
+[1560843389] ndomod registered for service status data'
+[1560843389] ndomod registered for adaptive program data'
+[1560843389] ndomod registered for adaptive host data'
+[1560843389] ndomod registered for adaptive service data'
+[1560843389] ndomod registered for external command data'
+[1560843389] ndomod registered for aggregated status data'
+[1560843389] ndomod registered for retention data'
+[1560843389] ndomod registered for contact data'
+[1560843389] ndomod registered for contact notification data'
+[1560843389] ndomod registered for acknowledgement data'
+[1560843389] ndomod registered for state change data'
+[1560843389] ndomod registered for contact status data'
+[1560843389] ndomod registered for adaptive contact data'
+[1560843389] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560843389] Successfully launched command file worker with pid 22204
+[1560843409] HOST FLAPPING ALERT: Mikrotik;STOPPED; Disabled flap detection
+[1560843412] Caught SIGTERM, shutting down...
+[1560843412] Caught SIGTERM, shutting down...
+[1560843412] Caught SIGTERM, shutting down...
+[1560843412] Successfully shutdown... (PID=22187)
+[1560843412] ndomod: Shutdown complete.
+[1560843412] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560843412] Nagios 4.4.3 starting... (PID=22446)
+[1560843412] Local time is Tue Jun 18 09:36:52 CEST 2019
+[1560843412] LOG VERSION: 2.0
+[1560843412] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560843412] qh: core query handler registered
+[1560843412] qh: echo service query handler registered
+[1560843412] qh: help for the query handler registered
+[1560843412] wproc: Successfully registered manager as @wproc with query handler
+[1560843412] wproc: Registry request: name=Core Worker 22449;pid=22449
+[1560843412] wproc: Registry request: name=Core Worker 22447;pid=22447
+[1560843412] wproc: Registry request: name=Core Worker 22448;pid=22448
+[1560843412] wproc: Registry request: name=Core Worker 22450;pid=22450
+[1560843412] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560843412] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560843412] ndomod registered for process data
+[1560843412] ndomod registered for log data'
+[1560843412] ndomod registered for system command data'
+[1560843412] ndomod registered for event handler data'
+[1560843412] ndomod registered for notification data'
+[1560843412] ndomod registered for comment data'
+[1560843412] ndomod registered for downtime data'
+[1560843412] ndomod registered for flapping data'
+[1560843412] ndomod registered for program status data'
+[1560843412] ndomod registered for host status data'
+[1560843412] ndomod registered for service status data'
+[1560843412] ndomod registered for adaptive program data'
+[1560843412] ndomod registered for adaptive host data'
+[1560843412] ndomod registered for adaptive service data'
+[1560843412] ndomod registered for external command data'
+[1560843412] ndomod registered for aggregated status data'
+[1560843412] ndomod registered for retention data'
+[1560843412] ndomod registered for contact data'
+[1560843412] ndomod registered for contact notification data'
+[1560843412] ndomod registered for acknowledgement data'
+[1560843412] ndomod registered for state change data'
+[1560843412] ndomod registered for contact status data'
+[1560843412] ndomod registered for adaptive contact data'
+[1560843412] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560843412] Successfully launched command file worker with pid 22462
+[1560843431] HOST NOTIFICATION: nagiosadmin;Mikrotik;DOWN;xi_host_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560843459] SERVICE FLAPPING ALERT: Mikrotik;Ping;STOPPED; Disabled flap detection for service
+[1560843459] SERVICE ALERT: Mikrotik;Ping;OK;HARD;1;OK - 192.168.12.100: rta 0.674ms, lost 0%
+[1560843459] HOST NOTIFICATION: nagiosadmin;Mikrotik;UP;xi_host_notification_handler;OK - 192.168.12.100: rta 0.525ms, lost 0%
+[1560843459] HOST ALERT: Mikrotik;UP;HARD;1;OK - 192.168.12.100: rta 0.525ms, lost 0%
+[1560844085] HOST NOTIFICATION: nagiosadmin;Mikrotik;DOWN;xi_host_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560844085] HOST ALERT: Mikrotik;DOWN;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560844123] SERVICE ALERT: Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560844335] HOST NOTIFICATION: nagiosadmin;Mikrotik;UP;xi_host_notification_handler;WARNING - 192.168.12.100: rta 1.282ms, lost 80%
+[1560844335] HOST ALERT: Mikrotik;UP;HARD;1;WARNING - 192.168.12.100: rta 1.282ms, lost 80%
+[1560844353] SERVICE ALERT: Mikrotik;Ping;OK;HARD;1;OK - 192.168.12.100: rta 0.565ms, lost 0%
+[1560844968] SERVICE NOTIFICATION: nagiosadmin;Mikrotik;Ping;CRITICAL;xi_service_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560844968] SERVICE ALERT: Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560844978] HOST NOTIFICATION: nagiosadmin;Mikrotik;DOWN;xi_host_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560844978] HOST ALERT: Mikrotik;DOWN;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560845215] HOST NOTIFICATION: nagiosadmin;Mikrotik;UP;xi_host_notification_handler;OK - 192.168.12.100: rta 0.614ms, lost 0%
+[1560845215] HOST ALERT: Mikrotik;UP;HARD;1;OK - 192.168.12.100: rta 0.614ms, lost 0%
+[1560845253] SERVICE NOTIFICATION: nagiosadmin;Mikrotik;Ping;OK;xi_service_notification_handler;OK - 192.168.12.100: rta 0.520ms, lost 0%
+[1560845253] SERVICE ALERT: Mikrotik;Ping;OK;HARD;1;OK - 192.168.12.100: rta 0.520ms, lost 0%
+[1560845453] Caught SIGTERM, shutting down...
+[1560845453] Caught SIGTERM, shutting down...
+[1560845453] Caught SIGTERM, shutting down...
+[1560845453] Successfully shutdown... (PID=22446)
+[1560845453] ndomod: Shutdown complete.
+[1560845453] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560858172] Nagios 4.4.3 starting... (PID=7534)
+[1560858172] Local time is Tue Jun 18 13:42:52 CEST 2019
+[1560858172] LOG VERSION: 2.0
+[1560858172] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560858172] qh: core query handler registered
+[1560858172] qh: echo service query handler registered
+[1560858172] qh: help for the query handler registered
+[1560858172] wproc: Successfully registered manager as @wproc with query handler
+[1560858172] wproc: Registry request: name=Core Worker 7540;pid=7540
+[1560858172] wproc: Registry request: name=Core Worker 7539;pid=7539
+[1560858172] wproc: Registry request: name=Core Worker 7538;pid=7538
+[1560858172] wproc: Registry request: name=Core Worker 7537;pid=7537
+[1560858172] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560858172] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560858172] ndomod registered for process data
+[1560858172] ndomod registered for log data'
+[1560858172] ndomod registered for system command data'
+[1560858172] ndomod registered for event handler data'
+[1560858172] ndomod registered for notification data'
+[1560858172] ndomod registered for comment data'
+[1560858172] ndomod registered for downtime data'
+[1560858172] ndomod registered for flapping data'
+[1560858172] ndomod registered for program status data'
+[1560858172] ndomod registered for host status data'
+[1560858172] ndomod registered for service status data'
+[1560858172] ndomod registered for adaptive program data'
+[1560858172] ndomod registered for adaptive host data'
+[1560858172] ndomod registered for adaptive service data'
+[1560858172] ndomod registered for external command data'
+[1560858172] ndomod registered for aggregated status data'
+[1560858172] ndomod registered for retention data'
+[1560858172] ndomod registered for contact data'
+[1560858172] ndomod registered for contact notification data'
+[1560858172] ndomod registered for acknowledgement data'
+[1560858172] ndomod registered for state change data'
+[1560858172] ndomod registered for contact status data'
+[1560858172] ndomod registered for adaptive contact data'
+[1560858172] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560858172] Successfully launched command file worker with pid 7547
+[1560858182] HOST NOTIFICATION: nagiosadmin;Mikrotik;DOWN;xi_host_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560858182] HOST ALERT: Mikrotik;DOWN;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560858223] SERVICE ALERT: Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560858333] SERVICE ALERT: Mikrotik;Ping;OK;HARD;1;OK - 192.168.12.100: rta 0.699ms, lost 0%
+[1560858333] HOST NOTIFICATION: nagiosadmin;Mikrotik;UP;xi_host_notification_handler;OK - 192.168.12.100: rta 1.486ms, lost 0%
+[1560858333] HOST ALERT: Mikrotik;UP;HARD;1;OK - 192.168.12.100: rta 1.486ms, lost 0%
+[1560858553] SERVICE NOTIFICATION: nagiosadmin;Mikrotik;Ping;CRITICAL;xi_service_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560858553] SERVICE ALERT: Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560858563] HOST NOTIFICATION: nagiosadmin;Mikrotik;DOWN;xi_host_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560858563] HOST ALERT: Mikrotik;DOWN;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560858663] SERVICE ALERT: Mikrotik;Ping;OK;HARD;1;OK - 192.168.12.100: rta 0.656ms, lost 0%
+[1560858663] HOST NOTIFICATION: nagiosadmin;Mikrotik;UP;xi_host_notification_handler;OK - 192.168.12.100: rta 1.573ms, lost 0%
+[1560858663] HOST ALERT: Mikrotik;UP;HARD;1;OK - 192.168.12.100: rta 1.573ms, lost 0%
+[1560859025] Caught SIGTERM, shutting down...
+[1560859025] Successfully shutdown... (PID=7534)
+[1560859025] ndomod: Shutdown complete.
+[1560859025] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560859025] Nagios 4.4.3 starting... (PID=12393)
+[1560859025] Local time is Tue Jun 18 13:57:05 CEST 2019
+[1560859025] LOG VERSION: 2.0
+[1560859025] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560859025] qh: core query handler registered
+[1560859025] qh: echo service query handler registered
+[1560859025] qh: help for the query handler registered
+[1560859025] wproc: Successfully registered manager as @wproc with query handler
+[1560859025] wproc: Registry request: name=Core Worker 12394;pid=12394
+[1560859025] wproc: Registry request: name=Core Worker 12395;pid=12395
+[1560859025] wproc: Registry request: name=Core Worker 12396;pid=12396
+[1560859025] wproc: Registry request: name=Core Worker 12397;pid=12397
+[1560859025] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560859025] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560859025] ndomod registered for process data
+[1560859025] ndomod registered for log data'
+[1560859025] ndomod registered for system command data'
+[1560859025] ndomod registered for event handler data'
+[1560859025] ndomod registered for notification data'
+[1560859025] ndomod registered for comment data'
+[1560859025] ndomod registered for downtime data'
+[1560859025] ndomod registered for flapping data'
+[1560859025] ndomod registered for program status data'
+[1560859025] ndomod registered for host status data'
+[1560859025] ndomod registered for service status data'
+[1560859025] ndomod registered for adaptive program data'
+[1560859025] ndomod registered for adaptive host data'
+[1560859025] ndomod registered for adaptive service data'
+[1560859025] ndomod registered for external command data'
+[1560859025] ndomod registered for aggregated status data'
+[1560859025] ndomod registered for retention data'
+[1560859025] ndomod registered for contact data'
+[1560859025] ndomod registered for contact notification data'
+[1560859025] ndomod registered for acknowledgement data'
+[1560859025] ndomod registered for state change data'
+[1560859025] ndomod registered for contact status data'
+[1560859025] ndomod registered for adaptive contact data'
+[1560859025] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560859025] Successfully launched command file worker with pid 12410
+[1560859363] SERVICE ALERT: Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560859373] HOST NOTIFICATION: nagiosadmin;Mikrotik;DOWN;xi_host_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560859373] HOST ALERT: Mikrotik;DOWN;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560859448] HOST NOTIFICATION: nagiosadmin;Mikrotik;UP;xi_host_notification_handler;OK - 192.168.12.100: rta 0.611ms, lost 0%
+[1560859448] HOST ALERT: Mikrotik;UP;HARD;1;OK - 192.168.12.100: rta 0.611ms, lost 0%
+[1560859486] SERVICE ALERT: Mikrotik;Ping;OK;HARD;1;OK - 192.168.12.100: rta 0.754ms, lost 0%
+[1560859676] SERVICE ALERT: Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560859686] HOST NOTIFICATION: nagiosadmin;Mikrotik;DOWN;xi_host_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560859686] HOST ALERT: Mikrotik;DOWN;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560859998] HOST NOTIFICATION: nagiosadmin;Mikrotik;DOWN;xi_host_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560860298] HOST NOTIFICATION: nagiosadmin;Mikrotik;DOWN;xi_host_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560860598] HOST NOTIFICATION: nagiosadmin;Mikrotik;DOWN;xi_host_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560860708] HOST NOTIFICATION: nagiosadmin;Mikrotik;UP;xi_host_notification_handler;OK - 192.168.12.100: rta 1.335ms, lost 0%
+[1560860708] HOST ALERT: Mikrotik;UP;HARD;1;OK - 192.168.12.100: rta 1.335ms, lost 0%
+[1560860746] SERVICE ALERT: Mikrotik;Ping;OK;HARD;1;OK - 192.168.12.100: rta 0.509ms, lost 0%
+[1560861950] Caught SIGTERM, shutting down...
+[1560861950] Caught SIGTERM, shutting down...
+[1560861950] wproc: Socket to worker Core Worker 12394 broken, removing
+[1560861950] wproc: Socket to worker Core Worker 12395 broken, removing
+[1560861950] wproc: Socket to worker Core Worker 12396 broken, removing
+[1560861950] wproc: Socket to worker Core Worker 12397 broken, removing
+[1560861950] Successfully shutdown... (PID=12393)
+[1560861950] ndomod: Shutdown complete.
+[1560861950] Event broker module '/usr/local/nagios/bin/ndomod.o' deinitialized successfully.
+[1560862206] Nagios 4.4.3 starting... (PID=7600)
+[1560862206] Local time is Tue Jun 18 14:50:06 CEST 2019
+[1560862206] LOG VERSION: 2.0
+[1560862206] qh: Socket '/usr/local/nagios/var/rw/nagios.qh' successfully initialized
+[1560862206] qh: core query handler registered
+[1560862206] qh: echo service query handler registered
+[1560862206] qh: help for the query handler registered
+[1560862206] wproc: Successfully registered manager as @wproc with query handler
+[1560862206] wproc: Registry request: name=Core Worker 7602;pid=7602
+[1560862206] wproc: Registry request: name=Core Worker 7605;pid=7605
+[1560862206] wproc: Registry request: name=Core Worker 7603;pid=7603
+[1560862206] wproc: Registry request: name=Core Worker 7604;pid=7604
+[1560862206] ndomod: NDOMOD 2.1.3 (2017-04-13) Copyright (c) 2009 Nagios Core Development Team and Community Contributors
+[1560862206] ndomod: Successfully connected to data sink.  0 queued items to flush.
+[1560862206] ndomod registered for process data
+[1560862206] ndomod registered for log data'
+[1560862206] ndomod registered for system command data'
+[1560862206] ndomod registered for event handler data'
+[1560862206] ndomod registered for notification data'
+[1560862206] ndomod registered for comment data'
+[1560862206] ndomod registered for downtime data'
+[1560862206] ndomod registered for flapping data'
+[1560862206] ndomod registered for program status data'
+[1560862206] ndomod registered for host status data'
+[1560862206] ndomod registered for service status data'
+[1560862206] ndomod registered for adaptive program data'
+[1560862206] ndomod registered for adaptive host data'
+[1560862206] ndomod registered for adaptive service data'
+[1560862206] ndomod registered for external command data'
+[1560862206] ndomod registered for aggregated status data'
+[1560862206] ndomod registered for retention data'
+[1560862206] ndomod registered for contact data'
+[1560862206] ndomod registered for contact notification data'
+[1560862206] ndomod registered for acknowledgement data'
+[1560862206] ndomod registered for state change data'
+[1560862206] ndomod registered for contact status data'
+[1560862206] ndomod registered for adaptive contact data'
+[1560862206] Event broker module '/usr/local/nagios/bin/ndomod.o' initialized successfully.
+[1560862206] Successfully launched command file worker with pid 7613
+[1560862699] HOST NOTIFICATION: nagiosadmin;Mikrotik;DOWN;xi_host_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560862699] HOST ALERT: Mikrotik;DOWN;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560862737] SERVICE ALERT: Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560862819] HOST NOTIFICATION: nagiosadmin;Mikrotik;UP;xi_host_notification_handler;OK - 192.168.12.100: rta 0.782ms, lost 0%
+[1560862819] HOST ALERT: Mikrotik;UP;HARD;1;OK - 192.168.12.100: rta 0.782ms, lost 0%
+[1560862847] SERVICE ALERT: Mikrotik;Ping;OK;HARD;1;OK - 192.168.12.100: rta 0.672ms, lost 0%
+[1560863877] SERVICE ALERT: Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560863888] HOST NOTIFICATION: nagiosadmin;Mikrotik;DOWN;xi_host_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560863888] HOST ALERT: Mikrotik;DOWN;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560863987] SERVICE ALERT: Mikrotik;Ping;OK;HARD;1;OK - 192.168.12.100: rta 0.747ms, lost 0%
+[1560863987] HOST NOTIFICATION: nagiosadmin;Mikrotik;UP;xi_host_notification_handler;OK - 192.168.12.100: rta 0.511ms, lost 0%
+[1560863987] HOST ALERT: Mikrotik;UP;HARD;1;OK - 192.168.12.100: rta 0.511ms, lost 0%
+[1560864327] SERVICE ALERT: Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560864337] HOST NOTIFICATION: nagiosadmin;Mikrotik;DOWN;xi_host_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560864337] HOST ALERT: Mikrotik;DOWN;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560864557] SERVICE ALERT: Mikrotik;Ping;OK;HARD;1;OK - 192.168.12.100: rta 0.638ms, lost 0%
+[1560864557] HOST NOTIFICATION: nagiosadmin;Mikrotik;UP;xi_host_notification_handler;OK - 192.168.12.100: rta 0.663ms, lost 0%
+[1560864557] HOST ALERT: Mikrotik;UP;HARD;1;OK - 192.168.12.100: rta 0.663ms, lost 0%
+[1560865806] Auto-save of retention data completed successfully.
+[1560867080] HOST NOTIFICATION: nagiosadmin;Mikrotik;DOWN;xi_host_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560867080] HOST ALERT: Mikrotik;DOWN;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560867117] SERVICE ALERT: Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560867200] HOST NOTIFICATION: nagiosadmin;Mikrotik;UP;xi_host_notification_handler;OK - 192.168.12.100: rta 0.735ms, lost 0%
+[1560867200] HOST ALERT: Mikrotik;UP;HARD;1;OK - 192.168.12.100: rta 0.735ms, lost 0%
+[1560867227] SERVICE ALERT: Mikrotik;Ping;OK;HARD;1;OK - 192.168.12.100: rta 1.847ms, lost 0%
+[1560868350] HOST NOTIFICATION: nagiosadmin;Mikrotik;DOWN;xi_host_notification_handler;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560868350] HOST ALERT: Mikrotik;DOWN;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560868377] SERVICE ALERT: Mikrotik;Ping;CRITICAL;HARD;1;CRITICAL - 192.168.12.100: rta nan, lost 100%
+[1560868650] HOST NOTIFICATION: nagiosadmin;Mikrotik;UP;xi_host_notification_handler;OK - 192.168.12.100: rta 0.676ms, lost 0%
+[1560868650] HOST ALERT: Mikrotik;UP;HARD;1;OK - 192.168.12.100: rta 0.676ms, lost 0%
+[1560868667] SERVICE ALERT: Mikrotik;Ping;OK;HARD;1;OK - 192.168.12.100: rta 0.589ms, lost 0%
+[1560869406] Auto-save of retention data completed successfully.
